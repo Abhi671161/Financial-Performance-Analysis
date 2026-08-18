@@ -25,7 +25,7 @@ This project follows a modern data analytics pipeline:
 | **2. Data Architecture** | **MySQL / SQLAlchemy (Python)** | Designed a relational Star Schema to link all 5 tables efficiently. |
 | **3. Data Extraction & Aggregation** | **SQL** | Pulled KPI data (Revenue by Unit, Budget Variance, Top Customers/Vendors). |
 | **4. Deep-Dive Analytics** | **Python (Pandas, NumPy)** | Feature engineering, descriptive statistics, and financial KPI calculations. |
-| **5. Statistical Rigor** | **Python (SciPy)** | Performed ANOVA, T-Tests, and Chi-Square tests to validate that insights are statistically significant (not random noise). |
+| **5. Statistical Rigor** | **Python (SciPy)** | Performed ANOVA, T-Tests, and Chi-Square tests to validate that insights are statistically significant  |
 | **6. Visualization & Storytelling** | **Power BI** | Built an interactive executive dashboard with drill-down capabilities. |
 
 ---
