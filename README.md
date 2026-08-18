@@ -67,15 +67,10 @@ Here is the interactive executive dashboard built to monitor these KPIs in real-
 
 | Page 1: Executive Overview | Page 2: Revenue & Variance | Page 3: Regional & Expense Breakdown |
 | :---: | :---: | :---: |
-| <img width="872" alt="Overview" src="https://github.com/user-attachments/assets/a153550a-71df-4922-a80c-3eb00e1a4e26" /> | <img width="872" alt="Revenue" src="https://github.com/user-attachments/assets/540a3eb0-a012-4f4b-881d-c4ff6d8f4a49" /> | <img width="871" alt="Expenses" src="https://github.com/user-attachments/assets/87fb23ab-8905-4b11-9f30-e6070b7616cc" /> |
+<img width="872" alt="Overview" src="https://github.com/user-attachments/assets/a153550a-71df-4922-a80c-3eb00e1a4e26" /> 
+<img width="872" alt="Revenue" src="https://github.com/user-attachments/assets/540a3eb0-a012-4f4b-881d-c4ff6d8f4a49" /> 
+<img width="871" alt="Expenses" src="https://github.com/user-attachments/assets/87fb23ab-8905-4b11-9f30-e6070b7616cc" /> 
 
----
-
-## 🧪 Data Validation (Excel)
-*Ensuring the data was clean before analysis.*
-<img width="872" alt="Excel Validation" src="https://github.com/user-attachments/assets/1fe74607-17c6-47ad-a9b7-30d742079889" />
-
----
 
 ## 🎯 Strategic Recommendations (The "Four Pillars")
 
