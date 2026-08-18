@@ -1,8 +1,6 @@
 
 # 📊 Financial Performance Analysis: From Raw Data to Strategic Insights
 
-**Author:** Gujjewar Abhinetra  
-**Role:** Financial Analytics Consultant  
 **Tools:** Excel, SQL, Python (Pandas, SciPy, Matplotlib), Power BI
 
 ---
